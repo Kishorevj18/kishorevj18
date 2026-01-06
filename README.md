@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kishore V J  
 
-💻 **B.Tech CSE (AI & Data Science) | 3rd Year Student | AI & ML Enthusiast**  
+💻 **B.Tech CSE (AI & Data Science) | Pre Final Year Student | AI & ML Enthusiast**  
 
 📧 **Email:** kishorevj18@gmail.com  
 
